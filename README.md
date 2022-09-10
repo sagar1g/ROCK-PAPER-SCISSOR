@@ -47,9 +47,9 @@ _Description_ : Rock paper scissors is a hand game usually played between two pe
 
 ```mermaid
 graph TD;
-    Scissors ---> Paper;
-    Paper ----> Rock;
-    Rock -----> Scissors
+    Scissors -> Paper;
+    Paper -> Rock;
+    Rock -> Scissors
 ```
 
 
