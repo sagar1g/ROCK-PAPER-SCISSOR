@@ -29,6 +29,13 @@ _Description_ : Rock paper scissors is a hand game usually played between two pe
 - if (player == paper) and (computer == scissors); computer wins :tada:
 
 - if (player == scissors) and (computer == scissors); tie
+
+```mermaid
+graph TD;
+    Scissors --> Paper;
+    Paper --> Rock;
+    Rock --> Scissors
+```
 . 
 
 > **Algorithm**:-
@@ -44,13 +51,6 @@ _Description_ : Rock paper scissors is a hand game usually played between two pe
 > **Dependencies**:-
 
 *Python langauge*
-
-```mermaid
-graph TD;
-    Scissors --> Paper;
-    Paper --> Rock;
-    Rock --> Scissors
-```
 
 
 ![Rock paper scissors image](https://files.realpython.com/media/Rock-Paper-Scissors-Make-Your-First-Python-Game_Watermarked.107e6ff4060c.jpg)
