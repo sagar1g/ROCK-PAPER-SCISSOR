@@ -4,46 +4,45 @@ __Description__ : Rock paper scissors is a hand game usually played between two 
 
  **INTRODUCTION**:- 
 
-.  Rock paper scissors is a hand game usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. 
+- Rock paper scissors is a hand game usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. 
 
-. These shapes are "rock" (a closed fist), "paper" (a flat hand), and "scissors" (a fist with the index finger and middle finger extended, forming a V). "Scissors" is i    identical to the two-fingered V sign (also indicating "victory" or "peace") except that it is pointed horizontally instead of being held upright in the air.
+- These shapes are "rock" (a closed fist), "paper" (a flat hand), and "scissors" (a fist with the index finger and middle finger extended, forming a V). "Scissors" is i    identical to the two-fingered V sign (also indicating "victory" or "peace") except that it is pointed horizontally instead of being held upright in the air.
 
 > **Rules**:- 
 
->  __Possible cases -
+>  __Possible cases_ -
 
 - if (player == rock) and (computer == paper); computer wins
 
 - if (player == paper) and (computer == paper); tie
 
-if (player == scissors) and (computer == paper); player wins
+- if (player == scissors) and (computer == paper); player wins
 
-if (player == rock) and (computer == rock); tie
+- if (player == rock) and (computer == rock); tie
 
-if (player == paper) and (computer == rock); player wins
+- if (player == paper) and (computer == rock); player wins :tada:
 
-if (player == scissors) and (computer == rock); computer wins
+- if (player == scissors) and (computer == rock); computer wins
 
-if (player == rock) and (computer == scissors); player wins
+- if (player == rock) and (computer == scissors); player wins
 
-if (player == paper) and (computer == scissors); computer wins
+- if (player == paper) and (computer == scissors); computer wins
 
-if (player == scissors) and (computer == scissors); tie
+- if (player == scissors) and (computer == scissors); tie
 . 
 
 > Algorithm:-
 
-. The computer will choose a random choice between "Rock", "Paper" and "Scissor". 
+- The computer will choose a random choice between "Rock", "Paper" and "Scissor". 
 
-. User Input will be taken.
+- User Input will be taken.
 
-. Input will be compared with computers choice.
+- Input will be compared with computers choice.
 
-. According to rules, one of them will win.
+ - According to rules, one of them will win.
 
-> Dependencies:-
+> **Dependencies**:-
 
-. Python langauge
+*Python langauge*
 
-![Rock paper scissors image](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/people-playing-paper-rock-scissors-royalty-free-illustration-1583269312.jpg?crop=0.994xw:0.799xh;0.00160xw,0.195xh&resize=1600:*)
-
+![Rock paper scissors image](https://files.realpython.com/media/Rock-Paper-Scissors-Make-Your-First-Python-Game_Watermarked.107e6ff4060c.jpg)
