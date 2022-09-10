@@ -33,13 +33,13 @@ _Description_ : Rock paper scissors is a hand game usually played between two pe
 
 > **Algorithm**:-
 
-- The computer will choose a random choice between "Rock", "Paper" and "Scissor". 
+- [] The computer will choose a random choice between "Rock", "Paper" and "Scissor". 
 
-- User Input will be taken.
+- [] User Input will be taken.
 
-- Input will be compared with computers choice.
+- [] Input will be compared with computers choice.
 
- - According to rules, one of them will win.
+ - [] According to rules, one of them will win.
 
 > **Dependencies**:-
 
