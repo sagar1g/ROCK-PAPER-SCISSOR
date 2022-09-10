@@ -45,4 +45,12 @@ _Description_ : Rock paper scissors is a hand game usually played between two pe
 
 *Python langauge*
 
+```mermaid
+graph TD;
+    Rock-->Paper;
+    Rock-->Scissors;
+    Scissors-->Paper;
+```
+
+
 ![Rock paper scissors image](https://files.realpython.com/media/Rock-Paper-Scissors-Make-Your-First-Python-Game_Watermarked.107e6ff4060c.jpg)
