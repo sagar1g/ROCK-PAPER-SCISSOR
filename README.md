@@ -10,9 +10,9 @@ ROCK,PAPER AND SCISSORS
 
 > Rules:- 
 
-. Possible cases -
+>  Possible cases -
 
-if (player == rock) and (computer == paper); computer wins
+_ if (player == rock) and (computer == paper); computer wins
 
 if (player == paper) and (computer == paper); tie
 
