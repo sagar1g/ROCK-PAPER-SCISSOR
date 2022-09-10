@@ -1,6 +1,6 @@
-ROCK,PAPER AND SCISSORS
+**ROCK,PAPER AND SCISSORS**
 
-> Description : Rock paper scissors is a hand game usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. 
+__Description : Rock paper scissors is a hand game usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. 
 
  **INTRODUCTION**:- 
 
@@ -8,13 +8,13 @@ ROCK,PAPER AND SCISSORS
 
 . These shapes are "rock" (a closed fist), "paper" (a flat hand), and "scissors" (a fist with the index finger and middle finger extended, forming a V). "Scissors" is i    identical to the two-fingered V sign (also indicating "victory" or "peace") except that it is pointed horizontally instead of being held upright in the air.
 
-> Rules:- 
+> **Rules**:- 
 
->  Possible cases -
+>  __Possible cases -
 
-_ if (player == rock) and (computer == paper); computer wins
+- if (player == rock) and (computer == paper); computer wins
 
-if (player == paper) and (computer == paper); tie
+- if (player == paper) and (computer == paper); tie
 
 if (player == scissors) and (computer == paper); player wins
 
