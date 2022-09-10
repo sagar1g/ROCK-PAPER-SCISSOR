@@ -45,3 +45,5 @@ if (player == scissors) and (computer == scissors); tie
 
 . Python langauge
 
+![Rock paper scissors image](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/people-playing-paper-rock-scissors-royalty-free-illustration-1583269312.jpg?crop=0.994xw:0.799xh;0.00160xw,0.195xh&resize=1600:*)
+
