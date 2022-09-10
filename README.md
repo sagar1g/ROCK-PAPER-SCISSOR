@@ -1,6 +1,6 @@
 ```mermaid
 flowchart LR
-    id1([Rock Paper Scrissors])
+    id1((Rock Paper Scrissors))
 ```
     
     
