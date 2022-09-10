@@ -1,6 +1,6 @@
 **ROCK,PAPER AND SCISSORS**
 
-__Description__ : Rock paper scissors is a hand game usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. 
+_Description_ : Rock paper scissors is a hand game usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. 
 
  **INTRODUCTION**:- 
 
@@ -10,28 +10,28 @@ __Description__ : Rock paper scissors is a hand game usually played between two 
 
 > **Rules**:- 
 
->  __Possible cases_ -
+>  _Possible cases_:-
 
-- if (player == rock) and (computer == paper); computer wins
+- if (player == rock) and (computer == paper); computer wins :tada:
 
 - if (player == paper) and (computer == paper); tie
 
-- if (player == scissors) and (computer == paper); player wins
+- if (player == scissors) and (computer == paper); player wins :tada:
 
 - if (player == rock) and (computer == rock); tie
 
 - if (player == paper) and (computer == rock); player wins :tada:
 
-- if (player == scissors) and (computer == rock); computer wins
+- if (player == scissors) and (computer == rock); computer wins :tada:
 
-- if (player == rock) and (computer == scissors); player wins
+- if (player == rock) and (computer == scissors); player wins :tada:
 
-- if (player == paper) and (computer == scissors); computer wins
+- if (player == paper) and (computer == scissors); computer wins :tada:
 
 - if (player == scissors) and (computer == scissors); tie
 . 
 
-> Algorithm:-
+> **Algorithm**:-
 
 - The computer will choose a random choice between "Rock", "Paper" and "Scissor". 
 
