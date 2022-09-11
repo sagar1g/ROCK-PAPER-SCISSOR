@@ -42,7 +42,7 @@ graph TD;
 ```
 . 
 
-> **Algorithm**:-
+> # Algorithm:-
 
 - [x] The computer will choose a random choice between "Rock", "Paper" and "Scissor". 
 
@@ -52,7 +52,7 @@ graph TD;
 
  - [x] According to rules, one of them will win.
 
-> **Dependencies**:-
+> # Dependencies:-
 
 *Python langauge*
 
