@@ -58,3 +58,7 @@ graph TD;
 
 
 ![Rock paper scissors image](https://files.realpython.com/media/Rock-Paper-Scissors-Make-Your-First-Python-Game_Watermarked.107e6ff4060c.jpg)
+
+# Result:-
+
+![rock paper ](https://user-images.githubusercontent.com/113135493/189589954-63b89d90-e1ee-45f8-abc6-9487191bdfbf.png)
